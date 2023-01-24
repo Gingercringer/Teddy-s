@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[github/codeql source archive]",
+			"uri": "codeql-zip-archive://0-152/Users/andrewmakin/Library/Application Support/Code/User/workspaceStorage/4b268ea30f925accc32991a79413509c/GitHub.vscode-codeql/python/codeql_db/src.zip"
+		}
+	],
+	"settings": {}
+}
